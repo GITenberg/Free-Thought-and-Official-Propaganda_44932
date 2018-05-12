@@ -1,0 +1,34 @@
+_repo: Free-Thought-and-Official-Propaganda_44932
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44932-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Russell, Bertrand
+    aliases:
+    - Russell, Bertrand A. W. (Bertrand Arthur William)
+    - Russell, Bertrand Russell, 3d Earl
+    birthdate: 1872
+    deathdate: 1970
+    gutenberg_agent_id: '355'
+    url: http://www.gutenberg.org/2009/agents/355
+    wikipedia: http://en.wikipedia.org/wiki/Bertrand_Russell
+description: ''
+gutenberg_issued: '2014-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44932'
+  lccn: '88126134'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'Conway Memorial Lecture: 1922'
+subjects:
+- !lcsh 'Liberalism'
+- !lcsh 'Free thought'
+- !lcc 'HM'
+- !lcsh 'Propaganda'
+title: Free Thought and Official Propaganda
+url: http://www.gutenberg.org/ebooks/44932
